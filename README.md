@@ -1,8 +1,8 @@
 # Personal Task Manager
 
 - **Project Code:** WST21-PM-2026-SF
-- **Student Name:** [Enter your name]
-- **Course & Year:** [Enter your course and year]
+- **Student Name:** [Jobert S. Carbo]
+- **Course & Year:** [BSIT-2 SECTION-7]
 - **Database Used:** SQLite (default); MySQL can be configured in `.env`.
 
 ## About
